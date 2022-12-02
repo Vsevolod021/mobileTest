@@ -12,9 +12,3 @@ body {
     border: 10px solid black;
 }
 
-
-.container {
-    height: 100vh;
-    border: 1px solid pink;
-    /* overflow: scroll; */
-}
