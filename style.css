@@ -13,9 +13,6 @@ body {
     height: -webkit-fill-available;
 }
 
-.wrapper {
-    overflow: scroll;
-}
 
 .container {
     height: 100px;
