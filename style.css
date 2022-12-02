@@ -10,7 +10,7 @@ html {
 
 body {
     height: 100vh;
-    /* height: -webkit-fill-available; */
+    height: -webkit-fill-available;
 }
 
 .header {
